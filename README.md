@@ -1,1 +1,1 @@
-# shopify_datascience_intern_challenge
+# shopify datascience internshi challenge
